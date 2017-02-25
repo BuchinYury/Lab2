@@ -1,0 +1,7 @@
+2017-02-23 02:00:51 ERROR Riddle:43 - Ошибка загрузки discussion
+2017-02-23 02:00:51 INFO  Main:80 - Done
+2017-02-23 02:00:56 INFO  Main:34 - Начинаем работу
+2017-02-23 02:00:56 ERROR Riddle:43 - Ошибка загрузки discussion
+2017-02-23 02:00:56 ERROR Riddle:46 - Ошибка загрузки discussion
+2017-02-23 02:00:57 ERROR DiscussionSQL:50 - Ошибка загрузки discussion
+2017-02-23 02:00:57 INFO  Main:80 - Done

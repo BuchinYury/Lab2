@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Riddles>
+    <riddle>
+        <id>1</id>
+        <name>abc</name>
+        <text>qwerty</text>
+        <level>1</level>
+        <category>sport</category>
+        <answer>q</answer>
+        <idUser>1</idUser>
+    </riddle>
+    <riddle>
+        <id>2</id>
+        <name>asd</name>
+        <text>zaqxsw</text>
+        <level>3</level>
+        <category>pool</category>
+        <answer>z</answer>
+        <idUser>2</idUser>
+    </riddle>
+    <riddle>
+        <id>3</id>
+        <name>xsw</name>
+        <text>fdcwefwfw</text>
+        <level>2</level>
+        <category>bool</category>
+        <answer>f</answer>
+        <idUser>2</idUser>
+    </riddle>
+    <riddle>
+        <id>4</id>
+        <name>cxd</name>
+        <text>weevevev</text>
+        <level>4</level>
+        <category>zill</category>
+        <answer>w</answer>
+        <idUser>1</idUser>
+    </riddle>
+</Riddles>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Users>
+    <user>
+        <id>1</id>
+        <login>admin</login>
+        <password>123</password>
+        <userName>badman</userName>
+        <admin>true</admin>
+    </user>
+    <user>
+        <id>2</id>
+        <login>abc</login>
+        <password>qwert</password>
+        <userName>mastodont</userName>
+        <admin>false</admin>
+    </user>
+</Users>
